@@ -1,6 +1,6 @@
-Hey, I'm Mega! I'm a hobbyist programmer who likes to code things. I enjoy helping people with their projects!
+im mega
+i code stuff
 
-How to reach me:
-Discord: iamnotmega
+dc: iamnotmega
 
-That's all for now, bye!
+nothing else here
