@@ -1,6 +1,6 @@
-im mega
-i code stuff
+Hey! I'm Mega! I'm a coder and a Linux enthusiast.
 
-dc: iamnotmega
+Contacts:
+Discord: iamnotmega
 
-nothing else here
+That's all :D
