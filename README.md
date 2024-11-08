@@ -1,6 +1,3 @@
-Hey! I'm Mega! I'm a coder and a Linux enthusiast.
-
-Contacts:
-Discord: iamnotmega
-
-That's all :D
+hi
+thats all i have to say
+https://notmega.carrd.co
